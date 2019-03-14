@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2019%2F03%2F12%2Ftest%2F</url>
+    <content type="text"><![CDATA[i am here,today i go here is order by afage]]></content>
+      <tags>
+        <tag>css</tag>
+        <tag>样式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[hobble]]></title>
+    <url>%2F2019%2F03%2F11%2Fhobble%2F</url>
+    <content type="text"><![CDATA[Source folder. This is where you put your site’s content. Hexo ignores hidden files and files or folders whose names are prefixed with _ (underscore) - except the _posts folder. Renderable files (e.g. Markdown, HTML) will be processed and put into the public folder, while other files will simply be copied.adggggggggggggggggggggggggggg]]></content>
+      <tags>
+        <tag>web</tag>
+        <tag>js</tag>
+      </tags>
+  </entry>
+</search>
